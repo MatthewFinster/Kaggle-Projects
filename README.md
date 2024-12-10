@@ -23,5 +23,8 @@ This repository showcases my journey through **Kaggle competitions** and data sc
 - Power BI
 - Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, etc.
 
+## 📖 Notes
+- [Kaggle Profile](https://www.kaggle.com/datawithmattfinster)
+
 ## 📜 License
 This repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs (CC BY-NC-ND)](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
