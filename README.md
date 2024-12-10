@@ -5,7 +5,6 @@ This repository showcases my journey through **Kaggle competitions** and data sc
 ## 📂 Repository Structure
 
 - `ProjectName/`: Each Kaggle competition or dataset has its own folder.
-  - `data/`: Placeholder for datasets (not uploaded due to Kaggle's policies).
   - `notebooks/`: Jupyter notebooks for exploratory data analysis (EDA) and model building.
   - `scripts/`: Python/R scripts for reusable code.
   - `results/`: Outputs, figures, or any other results generated during the project.
